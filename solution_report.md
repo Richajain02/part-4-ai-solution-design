@@ -232,7 +232,7 @@ Required Data -
 
 Reason: A CNN is recommended because it is specifically designed for image processing tasks. It can automatically learn visual patterns from chest X-ray images and accurately classify them as normal or pneumonia.
 
-* Expected Business Impact
+Expected Business Impact - 
 For Hospitals:
 - Faster diagnosis
 - Reduced doctor workload
