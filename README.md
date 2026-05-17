@@ -1,33 +1,18 @@
-# Synthetic Dataset Pack for Applied Neural Networks, CNN, NLP, and AI Solution Design Project
+# AI Solution Design – Healthcare
 
-This dataset pack contains independent datasets for each project part.
+## Project Overview
+This project proposes an AI-powered healthcare solution for pneumonia detection using chest X-ray images.
 
-## Folder Structure
+## Domain
+Healthcare
 
-```text
-ai_project_synthetic_datasets/
-├── part_1_neural_network_analysis/
-│   ├── customer_churn_nn.csv
-│   └── data_dictionary.md
-├── part_2_cnn_computer_vision/
-│   ├── images/
-│   │   ├── normal/
-│   │   ├── scratch/
-│   │   ├── dent/
-│   │   └── stain/
-│   ├── labels.csv
-│   └── data_dictionary.md
-├── part_3_nlp_sequence_modeling/
-│   ├── customer_support_text_classification.csv
-│   └── data_dictionary.md
-└── part_4_ai_solution_design/
-    ├── ai_usecase_reference_catalog.csv
-    ├── business_kpi_sample.csv
-    └── data_dictionary.md
-```
+## AI Task
+Image Classification
 
-## Notes for Students
-- Each part is independent.
-- Do not upload the full dataset to GitHub unless instructed.
-- Mention the dataset source link in your README.
-- Use the relevant folder for the project part you are attempting.
+## Proposed Model
+CNN with Transfer Learning
+
+## Expected Impact
+- Faster diagnosis
+- Reduced radiologist workload
+- Improved patient outcomes
