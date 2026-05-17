@@ -83,10 +83,10 @@ The CNN automatically extracts:
 * Optional Patient Features  
 
 If hospital records are included:  
-1. Age  
-2. Gender  
-3. Fever history  
-4. Oxygen level  
+* Age  
+* Gender  
+* Fever history  
+* Oxygen level  
 
 4. The target label for each image:  
 Label	-  Meaning  
