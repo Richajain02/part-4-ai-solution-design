@@ -66,11 +66,11 @@ Examples may come from hospitals, diagnostic centers, or public medical datasets
 2. The project uses -   
 Unstructured Data - X-ray images (PNG, JPG, DICOM)  
 Structured Data (Optional Supporting Data) -   
-Patient age  
-Gender  
-Medical history  
-Symptoms  
-Hospital ID  
+- Patient age  
+- Gender  
+- Medical history  
+- Symptoms  
+- Hospital ID  
 Combining both can improve model performance.  
 
 3. Main input features include:
@@ -114,7 +114,7 @@ Data collection steps:
 
 6. Data Quality Risks
 Some major risks include:
-1. Incorrect Labels - Wrong diagnosis labels can train the model incorrectly.
+** Incorrect Labels - Wrong diagnosis labels can train the model incorrectly.
 2. Class Imbalance - There may be more normal cases than pneumonia cases.
 3. Low-Quality Images - Blurred or poorly captured X-rays can reduce accuracy.
 4. Dataset Bias - If data comes from only one hospital or region, the model may not generalize well.
