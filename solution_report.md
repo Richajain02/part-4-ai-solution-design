@@ -89,9 +89,9 @@ If hospital records are included:
 4. Oxygen level  
 
 4. The target label for each image:  
-Label	     Meaning  
-0	         Normal  
-1	         Pneumonia  
+Label	-  Meaning  
+0	  -    Normal  
+1	  -    Pneumonia  
 
 This makes it a binary classification problem.  
 
@@ -114,12 +114,12 @@ Data collection steps:
 
 6. Data Quality Risks
 Some major risks include:
-** Incorrect Labels - Wrong diagnosis labels can train the model incorrectly.
-2. Class Imbalance - There may be more normal cases than pneumonia cases.
-3. Low-Quality Images - Blurred or poorly captured X-rays can reduce accuracy.
-4. Dataset Bias - If data comes from only one hospital or region, the model may not generalize well.
-5. Privacy Issues - Medical images may contain sensitive patient information.
-6. Duplicate Records - Repeated images can create misleading results.
+* Incorrect Labels - Wrong diagnosis labels can train the model incorrectly.
+* Class Imbalance - There may be more normal cases than pneumonia cases.
+* Low-Quality Images - Blurred or poorly captured X-rays can reduce accuracy.
+* Dataset Bias - If data comes from only one hospital or region, the model may not generalize well.
+* Privacy Issues - Medical images may contain sensitive patient information.
+* Duplicate Records - Repeated images can create misleading results.
 
 This data plan supports building a reliable AI solution for healthcare diagnosis.
 
